@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/github_username/repo_name](https://github.com/RouteAble)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/RouteAble](https://github.com/RouteAble)">
+    <img src="/.github/profile/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">RouteAble</h3>
