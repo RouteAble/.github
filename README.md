@@ -39,11 +39,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -51,8 +49,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 We were inspired by fellow UMass Amherst students who identified the lack of accessibility here on campus including dangerous ramps, hidden entrances, and unsafe roads. Students have the option to wait for "Classroom Access Assistants" and Accessible Van Services provided by the university, which are not always the most consistent and can cause frustration. Our application ensures that disabled people know ahead of time which buildings have accessible entrances and where they are. Using machine learning, we identified exact matches between images above a certain threshhold and automatically generate tags for our users. For quality control, we additionally have an edit tag function to manually edit generated tags. We also identified the challenge of incentivizing users. Hence, we developed a cryptocurrency wallet that allows users to collect tokens if their image is unique enough. 
 
