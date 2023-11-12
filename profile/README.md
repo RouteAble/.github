@@ -8,7 +8,7 @@
 <h3 align="center">RouteAble</h3>
 
   <p align="center">
-RouteAble is a map-based application that uses crowd-sourced data to help disabled people identify inaccessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. 
+RouteAble is a map-based application that uses crowd-sourced data to help disabled people determine accessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. 
     <br/>
     <a href="https://github.com/RouteAble"><strong>Explore the docs »</strong></a>
     <br />
@@ -50,7 +50,7 @@ RouteAble is a map-based application that uses crowd-sourced data to help disabl
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We were inspired by fellow UMass Amherst students who identified the lack of accessibility here on campus including dangerous ramps, hidden entrances, and unsafe roads. Students have the option to wait for "Classroom Access Assistants" and Accessible Van Services provided by the university, which are not always the most consistent and can cause frustration. Our application ensures that disabled people know ahead of time which buildings have accessible entrances and where they are. Using machine learning, we identified exact matches between images above a certain threshhold and automatically generate tags for our users. For quality control, we additionally have an edit tag function to manually edit generated tags. We also identified the challenge of incentivizing users. Hence, we developed a cryptocurrency wallet that allows users to collect tokens if their image is unique enough. 
+We were inspired by fellow UMass Amherst students who identified the lack of accessibility here on campus including dangerous ramps, hidden entrances, and unsafe roads. Students have the option to wait for "Classroom Access Assistants" and Accessible Van Services provided by the university, which are not always the most consistent and can cause frustration. Our application ensures that disabled people know ahead of time which buildings have accessible entrances and where they are using other user's images. Using machine learning, we identified exact matches between images above a certain threshhold and automatically generate tags for our users. For quality control, we additionally have an edit tag function to manually edit generated tags. We also identified the challenge of incentivizing users. Hence, we developed a cryptocurrency wallet that allows users to collect tokens if their image is unique enough. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
