@@ -64,7 +64,7 @@ We were inspired by fellow UMass Amherst students who identified the lack of acc
 * [ErgoBlockchain](https://ergoplatform.org/en/)
 * [Nest.js](https://nestjs.com/)
 * [FastAPI](https://fastapi.tiangolo.com/)
-* [Google Cloud](https://cloud.google.com/)
+* [Google Map API](https://developers.google.com/maps)
 * [.Tech Domain](https://get.tech/mlh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
