@@ -8,8 +8,8 @@
 <h3 align="center">RouteAble</h3>
 
   <p align="center">
-RouteAble is a map-based application that uses crowd-sourced data to help disabled people identify buildings or areas which have are inaccessible. Users can view tags attached to locations and buildings and add their own pictures. We use machine learning technology to check for image similarities and tag generation, blockchain to reward users with cryptocurrency, and React Native to host the application on Android and iOS devices. This is the first app of its kind, with users having greater independence to travel, and we hope to make our buildings more inclusive for all.
-  <br/>
+RouteAble is a map-based application that uses crowd-sourced data to help disabled people identify inaccessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. 
+    <br/>
     <a href="https://github.com/RouteAble"><strong>Explore the docs »</strong></a>
     <br />
     <br />
