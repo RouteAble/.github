@@ -8,7 +8,7 @@
 <h1 align="center">RouteAble</h3>
 
   <p align="center">
-RouteAble is a map-based application that uses crowd-sourced data to help disabled people determine accessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. <br /> <br /> This project was made for the 2023 HackUMass hackathon.
+RouteAble is a map-based application that uses crowd-sourced data to help disabled people determine accessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. <br /> <br /> This project was made for the 2023 HackUMass hackathon, where we won the "Most Creative Use of GitHub" award presented by the Major League Hacking (MLH) Foundation.
     <br/>
     <a href="https://github.com/RouteAble"><strong>Explore the docs »</strong></a>
     <br />
