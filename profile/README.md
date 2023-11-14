@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/RouteAble](https://github.com/RouteAble)">
-    <img src="/profile/images/logo.png" alt="Logo" width="600">
+    <img src="/profile/images/logo.png" alt="Logo" width="75%">
   </a>
 
 <h1 align="center">RouteAble</h3>
